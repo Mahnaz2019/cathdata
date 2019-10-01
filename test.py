@@ -24,14 +24,3 @@ for ec_code in sorted(uniq_ec):
 
 # for index, row in cereal_df.head(5).iterrows():
 #     print("row:{}  row[1]={}  row['EC_CODE']=".format(index, row[1]))
-
-
-
-
-# a = "3.1.1."
-# while a = "3.1.1.":
-# print (a)
-# a = a + a + *
-# a = a + a + **
-# Print ("done")
-
